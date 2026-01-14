@@ -1,6 +1,6 @@
 # Kelompok 3 – Riset Operasi TI22D
 
-Kelompok mahasiswa **Program Studi Teknik Informatika – Kelas TI 22D** yang mengembangkan project berbasis **Riset Operasi** dengan pendekatan **Dynamic Programming**, khususnya **Backward Recursion (Top-Down DP)**, untuk menyelesaikan permasalahan **optimasi last-mile delivery**.
+Kelompok mahasiswa **Program Studi Teknik Informatika – Kelas TI22D** yang mengembangkan project berbasis **Riset Operasi** dengan pendekatan **Dynamic Programming**, khususnya **Backward Recursion**, untuk menyelesaikan permasalahan **optimasi last-mile delivery**.
 
 ## Fokus Project
 
